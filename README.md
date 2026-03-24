@@ -1,6 +1,6 @@
-## Hey there! 🫡
+## Hey there, I'm Marcos! 🫡
 
-I'm Marcos, a computer engineer student based in Spain
+A computer engineer student based in Spain
 
 I'm a tech enthusiast who enjoys building stuff
 
