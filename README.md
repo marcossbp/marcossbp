@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there! 🫡
+
+I'm Marcos, a computer engineer student based in Spain
+
+I'm a tech enthusiast who enjoys building stuff
+
+I enjoy learning and trying new things!!
+
+Currently I'm interested on AI and Data management.
 
 <!--
 **marcossbp/marcossbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
