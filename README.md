@@ -1,6 +1,6 @@
 ## Hey there, I'm Marcos! 🫡
 
-Computer engineer student based in Spain
+Computer Engineer student based in Spain
 
 I'm a tech enthusiast who enjoys building stuff
 
